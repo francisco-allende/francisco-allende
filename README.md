@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Francisco, a last year programming student at UTN.
+## Hi there 👋 I'm Francisco, a last year programming student at UTN.
 
 👾 I'm passionate about Full Stack web development and currently working on sharpening my skills in .NET, JS and Angular.
 
@@ -10,10 +10,10 @@
 
 
 
-## Connect with me
+### Connect with me
 Feel free to connect with me on https://www.linkedin.com/in/franciscoallende/ or drop me a line at franallende2000@gmail.com.
 
-## Languages and Tools:
+### Languages and Tools:
 <p align="center">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
