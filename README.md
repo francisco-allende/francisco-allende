@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Francisco, a last year programming student at UTN.
 
-<!--
-**francisco-allende/francisco-allende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 I'm passionate about Full Stack web development and currently working on sharpening my skills in .NET, JS and Angular.
 
-Here are some ideas to get you started:
+🪶 When I'm not coding, you can find me exploring new technologies or reading tech blogs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently focusing on Full Stack web development.
+
+🌱 I’m currently working with .NET, JS and Angular.
+
+📫 How to reach me franallende2000@gmail.com
+
+## Connect with me
+Feel free to connect with me on https://www.linkedin.com/in/franciscoallende/ or drop me a line at franallende2000@gmail.com.
+
+## Languages and Tools:
+css3 html5 typescript javascript angular bootstrap c csharp php git sql 
